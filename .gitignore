@@ -1,0 +1,11 @@
+# Exclude example_directory
+assingment1/assignment1_output_ss/
+assignment2/DS_Assignment_2.pdf
+assignment2/ReverseModule/
+assignment2/orb.db/
+assignment4/venv/
+assignment4/ass4_doc*
+assignment5/output_ss/
+assignment7/
+.DS_Store
+
